@@ -1,4 +1,4 @@
-# Autoencoders with PyTorch: Hands-On Guide
+# Autoencoders with PyTorch
 
 This repository provides a practical introduction to autoencoders using PyTorch. The notebook, **Autoencoders in PyTorch**, covers essential concepts, implementation details, and experiments using the MNIST dataset, making it an ideal starting point for understanding unsupervised learning with autoencoders.
 
